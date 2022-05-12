@@ -22,8 +22,8 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 6. Laat de mensen evolueren
 7. Mensen ontdekken wat hij heeft gedaan
 8. Mensen verzetten zich tegen hem
-!9. Hij pakt magische steen
-!!10. Door de steen reist hij naar een andere wereld. Daardoor is iedereen blij, en is het feest.
+9. Hij pakt magische steen. !
+10. Door de steen reist hij naar een andere wereld. Daardoor is iedereen blij, en is het feest. !!
 11. Daar leeft hij een nieuw leven
 12. Heeft spijt
 13. Leeft alleen
