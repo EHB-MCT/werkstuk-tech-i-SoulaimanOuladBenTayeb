@@ -1,1 +1,32 @@
-Zet hier de arduino code
+// Deze tutorial heb ik gevolgd om volgende code te schrijven, en om mijn breadboard klaar te maken.
+//https://www.youtube.com/watch?v=pcpxCOo_8js
+
+int soundsensor = 3;
+int led = 7;
+
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(soundsensor, INPUT);
+  pinMode(led, OUTPUT);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  int sensorvalue = digitalRead (soundsensor);
+  
+  if (sensorvalue == 1) {
+
+      digitalWrite(led,HIGH);
+    
+    } 
+
+    else{
+
+      digitalWrite(led,LOW);
+        
+    }
+
+}
+

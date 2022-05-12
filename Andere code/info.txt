@@ -1,1 +1,2 @@
 Voeg hier de code toe die je bijvoorbeeld schreef in processing of andere talen
+//Geen andere code gebruikt.
